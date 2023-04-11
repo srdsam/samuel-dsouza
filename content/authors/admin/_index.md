@@ -72,5 +72,3 @@ email: 'samuelrohandsouza@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I like working in environments with a steep learning curve, leveraging my background in biomedical science and my broad experience across bioinformatics, machine learning, and software engineering. I enjoy collaborative multidisciplinary environments, that are mission-driven.
-{style="text-align: justify;"}
