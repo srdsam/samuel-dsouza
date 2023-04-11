@@ -23,6 +23,7 @@ sections:
         Outside the professional realm, I actively participate in Muay Thai and open water swimming with the South End Rowing Club. I have held leadership positions in sports organizations, including serving as Treasurer for Imperial College Swim and Waterpolo (ICSWP) and playing in the BUCS Premier League Waterpolo for Imperial College London.
 
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -100,6 +101,7 @@ sections:
       columns: '2'
       
   - block: accomplishments
+    id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'MOOCs'
