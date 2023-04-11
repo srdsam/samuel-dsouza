@@ -156,7 +156,6 @@ sections:
           organization_url: https://www.coursera.org
           title: Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences
           url: ''
-    
     design:
       columns: '2'
       
