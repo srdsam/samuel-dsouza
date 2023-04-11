@@ -32,14 +32,12 @@ sections:
         - title: Lead Data Engineer
           company: Chan Zuckerberg Biohub
           company_url: ''
-          company_logo: org-gc
           location: San Francisco, California, US
           date_start: '2021-12-01'
           description: Lead and built a project called Datahub, which aims to structure data to support research. Biomedical research is complex, with highly heterogeneous metadata depending on the sample, modality, or goal. Datahub leverages graph databases to represent highly interconnected metadata. A website and API allows users to easily upload, track, and analyze ongoing research. To support Datahub, I also developed infrastructure and analysis pipelines for the mass spectrometry and genomics platforms. Communicated with leadership, and users, and coordinated software engineers to complete related software projects. Independently researched using graph theory to interrogate multiomic data being generated at the Biohub. Worked closely with the data science platform to analyse and interpret transcriptomics and spatial datasets.
         - title: Bioinformatics and Data Analyst
           company: Illumina
           company_url: ''
-          company_logo: org-gc
           location: Cambridge, UK
           date_start: '2021-06-01'
           date_end: '2021-09-01'
@@ -47,7 +45,6 @@ sections:
         - title: Machine Learning Researcher
           company: National Heart and Lung Institute
           company_url: ''
-          company_logo: org-gc
           location: London, UK
           date_start: '2020-10-01'
           date_end: '2021-03-01'
@@ -55,7 +52,6 @@ sections:
         - title: Bioinformatics Engineer
           company: Global Gene Corp
           company_url: ''
-          company_logo: org-gc
           location: Cambridge, UK
           date_start: '2020-06-01'
           date_end: '2020-10-01'
@@ -63,7 +59,6 @@ sections:
         - title: Researcher
           company: Imperial College London
           company_url: ''
-          company_logo: org-gc
           location: London, UK
           date_start: '2019-07-01'
           date_end: '2020-04-01'
@@ -71,7 +66,6 @@ sections:
         - title: Software Engineer
           company: Automat
           company_url: ''
-          company_logo: org-gc
           location: Berlin, Germany (remote)
           date_start: '2019-07-01'
           date_end: '2020-04-01'
@@ -79,7 +73,6 @@ sections:
         - title: Researcher
           company: Imperial College London
           company_url: ''
-          company_logo: org-gc
           location: London, UK
           date_start: '2018-10-01'
           date_end: '2019-03-01'
@@ -87,7 +80,6 @@ sections:
         - title: R&D Engineer
           company: i2x
           company_url: ''
-          company_logo: org-gc
           location: Berlin, Germany
           date_start: '2018-03-01'
           date_end: '2018-07-01'
@@ -95,7 +87,6 @@ sections:
         - title: R&D Engineer
           company: Leonyte Biosystems
           company_url: ''
-          company_logo: org-gc
           location: Berlin, Germany
           date_start: '2017-09-01'
           date_end: '2018-03-01'
