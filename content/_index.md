@@ -30,86 +30,86 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
       - title: Lead Data Engineer
-         company: Chan Zuckerberg Biohub
-         company_url: ''
-         company_logo: org-gc
-         location: San Francisco, California, US
-         date_start: '2021-12-01'
-         description: Lead and built a project called Datahub, which aims to structure data to support research. Biomedical research is complex, with highly heterogeneous metadata depending on the sample, modality, or goal. Datahub leverages graph databases to represent highly interconnected metadata. A website and API allows users to easily upload, track, and analyze ongoing research. To support Datahub, I also developed infrastructure and analysis pipelines for the mass spectrometry and genomics platforms. Communicated with leadership, and users, and coordinated software engineers to complete related software projects. Independently researched using graph theory to interrogate multiomic data being generated at the Biohub. Worked closely with the data science platform to analyse and interpret transcriptomics and spatial datasets.
+        company: Chan Zuckerberg Biohub
+        company_url: ''
+        company_logo: org-gc
+        location: San Francisco, California, US
+        date_start: '2021-12-01'
+        description: Lead and built a project called Datahub, which aims to structure data to support research. Biomedical research is complex, with highly heterogeneous metadata depending on the sample, modality, or goal. Datahub leverages graph databases to represent highly interconnected metadata. A website and API allows users to easily upload, track, and analyze ongoing research. To support Datahub, I also developed infrastructure and analysis pipelines for the mass spectrometry and genomics platforms. Communicated with leadership, and users, and coordinated software engineers to complete related software projects. Independently researched using graph theory to interrogate multiomic data being generated at the Biohub. Worked closely with the data science platform to analyse and interpret transcriptomics and spatial datasets.
 
       - title: Bioinformatics and Data Analyst
-       company: Illumina
-       company_url: ''
-       company_logo: org-gc
-       location: Cambridge, UK
-       date_start: '2021-06-01'
-       date_end: '2021-09-01'
-       description: Worked as a bioinformatician for Illumina’s EMEA office, within their Population Genomics (PopGen) group. Contributed to methods for merging and saving terabytes of variant called files (VCFs). Developed test software for triaging bugs and identifying algorithmic slowdowns. Worked for the DRAGEN platform in C++ and Python locally and in Illumina’s HPC environment.
+        company: Illumina
+        company_url: ''
+        company_logo: org-gc
+        location: Cambridge, UK
+        date_start: '2021-06-01'
+        date_end: '2021-09-01'
+        description: Worked as a bioinformatician for Illumina’s EMEA office, within their Population Genomics (PopGen) group. Contributed to methods for merging and saving terabytes of variant called files (VCFs). Developed test software for triaging bugs and identifying algorithmic slowdowns. Worked for the DRAGEN platform in C++ and Python locally and in Illumina’s HPC environment.
 
       - title: Machine Learning Researcher
-       company: National Heart and Lung Institute
-       company_url: ''
-       company_logo: org-gc
-       location: London, UK
-       date_start: '2020-10-01'
-       date_end: '2021-03-01'
-       description: Developed machine learning models under the guidance of Professor Darrel Francis and Dr. James Howard in the Cardiology Department of Hammersmith Hospital, with the end goal of producing a CMRI (cardiac magnetic resonance imaging) pipeline for automated diagnostic of cardiovascular diseases. Developed a classifier that identified the ‘view’ of CMRIs, and retrospectively assessed model performance using several metrics. Investigated a potential novel transformer methodology for image data.
+        company: National Heart and Lung Institute
+        company_url: ''
+        company_logo: org-gc
+        location: London, UK
+        date_start: '2020-10-01'
+        date_end: '2021-03-01'
+        description: Developed machine learning models under the guidance of Professor Darrel Francis and Dr. James Howard in the Cardiology Department of Hammersmith Hospital, with the end goal of producing a CMRI (cardiac magnetic resonance imaging) pipeline for automated diagnostic of cardiovascular diseases. Developed a classifier that identified the ‘view’ of CMRIs, and retrospectively assessed model performance using several metrics. Investigated a potential novel transformer methodology for image data.
 
       - title: Bioinformatics Engineer
-       company: Global Gene Corp
-       company_url: ''
-       company_logo: org-gc
-       location: Cambridge, UK
-       date_start: '2020-06-01'
-       date_end: '2020-10-01'
-       description: GGC collects bespoke exome data from underrepresented populations for investigations into disease genotypes, towards a 1 Million Genome Project. Developed an exome analysis pipeline in nextflow for variant calling and evaluated called variants using bioinformatics tools and Exomiser on a HPC. Also created a PostgreSQL database for storage of the Exomiser analysis, an API backend, and a ReactJS frontend. My project enabled geneticists to review and autogenerate reports on likely causative variants for the subject’s disease phenotype.
+        company: Global Gene Corp
+        company_url: ''
+        company_logo: org-gc
+        location: Cambridge, UK
+        date_start: '2020-06-01'
+        date_end: '2020-10-01'
+        description: GGC collects bespoke exome data from underrepresented populations for investigations into disease genotypes, towards a 1 Million Genome Project. Developed an exome analysis pipeline in nextflow for variant calling and evaluated called variants using bioinformatics tools and Exomiser on a HPC. Also created a PostgreSQL database for storage of the Exomiser analysis, an API backend, and a ReactJS frontend. My project enabled geneticists to review and autogenerate reports on likely causative variants for the subject’s disease phenotype.
 
       - title: Researcher
-       company: Imperial College London
-       company_url: ''
-       company_logo: org-gc
-       location: London, UK
-       date_start: '2019-07-01'
-       date_end: '2020-04-01'
-       description: This project was an investigation into the effect of adiponectin on ß-Amyloid secretion in PDK1- Knockdown HEK293 cells, as a potential molecular target for treating Alzheimers. I worked with a group of four other researchers to develop knockdown cells with CRISPR, and evaluate the impact of adiponectin on the ß-Amyloid secretion pathway through protein and genomic expression.
+        company: Imperial College London
+        company_url: ''
+        company_logo: org-gc
+        location: London, UK
+        date_start: '2019-07-01'
+        date_end: '2020-04-01'
+        description: This project was an investigation into the effect of adiponectin on ß-Amyloid secretion in PDK1- Knockdown HEK293 cells, as a potential molecular target for treating Alzheimers. I worked with a group of four other researchers to develop knockdown cells with CRISPR, and evaluate the impact of adiponectin on the ß-Amyloid secretion pathway through protein and genomic expression.
 
 
       - title: Software Engineer
-       company: Automat
-       company_url: ''
-       company_logo: org-gc
-       location: Berlin, Germany (remote)
-       date_start: '2019-07-01'
-       date_end: '2020-04-01'
-       description: Automat develops turnkey software solutions. Worked within Automat’s ‘Workshop Mode’ and was responsible for the infrastructure behind the communication software pricing API and a web-scraping tool. Developed and deployed this all on AWS. Worked with Docker, SQL, and Serverless.
+        company: Automat
+        company_url: ''
+        company_logo: org-gc
+        location: Berlin, Germany (remote)
+        date_start: '2019-07-01'
+        date_end: '2020-04-01'
+        description: Automat develops turnkey software solutions. Worked within Automat’s ‘Workshop Mode’ and was responsible for the infrastructure behind the communication software pricing API and a web-scraping tool. Developed and deployed this all on AWS. Worked with Docker, SQL, and Serverless.
 
       - title: Researcher
-       company: Imperial College London
-       company_url: ''
-       company_logo: org-gc
-       location: London, UK
-       date_start: '2018-10-01'
-       date_end: '2019-03-01'
-       description: Studied the inhibition of paclitaxel-induced apoptosis by epinephrine in a breast cancer cell line using cell viability assays, western blot, and qPCR alongside cell culture techniques.
+        company: Imperial College London
+        company_url: ''
+        company_logo: org-gc
+        location: London, UK
+        date_start: '2018-10-01'
+        date_end: '2019-03-01'
+        description: Studied the inhibition of paclitaxel-induced apoptosis by epinephrine in a breast cancer cell line using cell viability assays, western blot, and qPCR alongside cell culture techniques.
 
 
       - title: R&D Engineer
-       company: i2x
-       company_url: ''
-       company_logo: org-gc
-       location: Berlin, Germany
-       date_start: '2018-03-01'
-       date_end: '2018-07-01'
-       description: Researched and developed a hardware device for i2x's call assistance service. Developed audio streaming software in python and Arduino, to stream data to i2x’s ML infrastructure, and visualise analytics.
+        company: i2x
+        company_url: ''
+        company_logo: org-gc
+        location: Berlin, Germany
+        date_start: '2018-03-01'
+        date_end: '2018-07-01'
+        description: Researched and developed a hardware device for i2x's call assistance service. Developed audio streaming software in python and Arduino, to stream data to i2x’s ML infrastructure, and visualise analytics.
 
       - title: R&D Engineer
-       company: Leonyte Biosystems
-       company_url: ''
-       company_logo: org-gc
-       location: Berlin, Germany
-       date_start: '2017-09-01'
-       date_end: '2018-03-01'
-       description: Leonyte was an early stage startup aiming to provide real-time testing for pathogens in food. Worked with the engineering team to develop a prototype portable bacterial detection device. This involved reading data sheets from National Instruments, writing summaries, and constructing several prototypes. Visualized biological and system data for presentation and troubleshooting. Smoothed signals and fine-tuned detection algorithms to improve pathogen detection. Helped with administration related to inventory, monthly invoicing, and SCRUM.
+        company: Leonyte Biosystems
+        company_url: ''
+        company_logo: org-gc
+        location: Berlin, Germany
+        date_start: '2017-09-01'
+        date_end: '2018-03-01'
+        description: Leonyte was an early stage startup aiming to provide real-time testing for pathogens in food. Worked with the engineering team to develop a prototype portable bacterial detection device. This involved reading data sheets from National Instruments, writing summaries, and constructing several prototypes. Visualized biological and system data for presentation and troubleshooting. Smoothed signals and fine-tuned detection algorithms to improve pathogen detection. Helped with administration related to inventory, monthly invoicing, and SCRUM.
     design:
       columns: '2'
       
@@ -127,41 +127,41 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/8PLQZGBNL6G6
-         date_end: ''
-         date_start: '2018-05-01'
-         description: ''
+          date_end: ''
+          date_start: '2018-05-01'
+          description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
           url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/82TT9YXZN8DV
-         date_end: ''
-         date_start: '2018-03-01'
-         description: ''
+          date_end: ''
+          date_start: '2018-03-01'
+          description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Computational Neuroscience
           url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/LGLK2YSJZHT6
-         date_end: ''
-         date_start: '2018-03-01'
-         description: ''
+          date_end: ''
+          date_start: '2018-03-01'
+          description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
           title: DeepLearning.ai
           url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/Z47WCQXKHKL7
-         date_end: ''
-         date_start: '2017-11-01'
-         description: ''
+          date_end: ''
+          date_start: '2017-11-01'
+          description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
           title: The Brain and Space
           url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/CCMUXJE84VL5
-         date_end: ''
-         date_start: '2017-08-01'
-         description: ''
+          date_end: ''
+          date_start: '2017-08-01'
+          description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
           title: Philosophy and the Sciences: Introduction to the Philosophy of Cognitive Sciences
