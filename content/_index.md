@@ -30,12 +30,12 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
          - title: Lead Data Engineer
-          company: Chan Zuckerberg Biohub
-          company_url: ''
-          company_logo: org-gc
-          location: San Francisco, California, US
-          date_start: '2021-12-01'
-          description: Lead and built a project called Datahub, which aims to structure data to support research. Biomedical research is complex, with highly heterogeneous metadata depending on the sample, modality, or goal. Datahub leverages graph databases to represent highly interconnected metadata. A website and API allows users to easily upload, track, and analyze ongoing research. To support Datahub, I also developed infrastructure and analysis pipelines for the mass spectrometry and genomics platforms. Communicated with leadership, and users, and coordinated software engineers to complete related software projects. Independently researched using graph theory to interrogate multiomic data being generated at the Biohub. Worked closely with the data science platform to analyse and interpret transcriptomics and spatial datasets.
+           company: Chan Zuckerberg Biohub
+           company_url: ''
+           company_logo: org-gc
+           location: San Francisco, California, US
+           date_start: '2021-12-01'
+           description: Lead and built a project called Datahub, which aims to structure data to support research. Biomedical research is complex, with highly heterogeneous metadata depending on the sample, modality, or goal. Datahub leverages graph databases to represent highly interconnected metadata. A website and API allows users to easily upload, track, and analyze ongoing research. To support Datahub, I also developed infrastructure and analysis pipelines for the mass spectrometry and genomics platforms. Communicated with leadership, and users, and coordinated software engineers to complete related software projects. Independently researched using graph theory to interrogate multiomic data being generated at the Biohub. Worked closely with the data science platform to analyse and interpret transcriptomics and spatial datasets.
           
          - title: Bioinformatics and Data Analyst
           company: Illumina
