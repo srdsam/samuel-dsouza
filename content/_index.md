@@ -122,7 +122,7 @@ sections:
           description: ''
           organization: Coursera
           organization_url: https://www.coursera.org
-          title: Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course)
+          title: Build a Modern Computer from First Principles From Nand to Tetris (Project-Centered Course)
           url: ''
         - certificate_url: https://www.coursera.org/account/accomplishments/certificate/82TT9YXZN8DV
           date_end: ''
