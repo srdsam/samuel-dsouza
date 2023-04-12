@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'Samuel D'Souza'
-    description: 'Samuel Rohan D'Souza's personal website. Contains resume (CV) and background information.'
+    org_name: 'Samuel DSouza'
+    description: 'Samuel Rohan DSouzas personal website. Contains resume (CV) and background information.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/srdsam/samuel-dsouza'
     content_dir: content
     branch: main
   avatar:
