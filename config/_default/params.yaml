@@ -17,8 +17,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    org_name: 'Samuel D'Souza'
+    description: 'Samuel Rohan D'Souza's personal website. Contains resume (CV) and background information.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
