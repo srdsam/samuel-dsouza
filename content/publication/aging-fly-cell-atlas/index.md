@@ -1,10 +1,11 @@
 ---
-title: 'An example conference paper'
+title: 'Aging Fly Cell Atlas Identifies Exhaustive Aging Features at Cellular Resolution'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - 'Tzu-Chiao Lu and Maria Brbi and Ye-Jin Park and Tyler Jackson and Jiaye Chen and Sai Saroja Kolluru and Yanyan Qi and Nadja Sandra Katheder and Xiaoyu Tracy Cai and Seungjae Lee and Yen-Chung Chen and Niccole Auld and Doug Welsch and Samuel DSouza and Angela Oliveira Pisco and Robert C. Jones and Jure Leskovec and Eric C. Lai and Hugo J. Bellen and Liqun Luo and Heinrich Jasper and Stephen R. Quake and Hongjie Li}'
   - admin
 
 # Author notes (optional)
