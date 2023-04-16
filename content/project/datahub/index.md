@@ -10,7 +10,7 @@ tags:
 date: '2022-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/srdsam/samuel-dsouza/blob/main/content/project/datahub/Metahub.pdf'
+external_link: 'https://github.com/srdsam/samuel-dsouza/blob/main/content/project/datahub/'
 
 image:
   caption: Example graph

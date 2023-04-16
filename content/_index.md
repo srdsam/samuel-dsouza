@@ -99,7 +99,19 @@ sections:
           description: Leonyte was an early stage startup aiming to provide real-time testing for pathogens in food. Worked with the engineering team to develop a prototype portable bacterial detection device. This involved reading data sheets from National Instruments, writing summaries, and constructing several prototypes. Visualized biological and system data for presentation and troubleshooting. Smoothed signals and fine-tuned detection algorithms to improve pathogen detection. Helped with administration related to inventory, monthly invoicing, and SCRUM.
     design:
       columns: '2'
-      
+    
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+
   - block: accomplishments
     id: accomplishments
     content:
