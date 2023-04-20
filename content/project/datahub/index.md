@@ -18,8 +18,8 @@ image:
 
 links:
 url_code: ''
-url_pdf: ''
-url_slides: ''
+url_pdf: 'https://github.com/srdsam/samuel-dsouza/blob/main/content/project/datahub/Metadata_Framework.pdf'
+url_slides: 'https://github.com/srdsam/samuel-dsouza/blob/main/content/project/datahub/Datahub.pdf'
 url_video: ''
 
 ---
