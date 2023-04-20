@@ -6,7 +6,7 @@ tags:
   - Software Engineering
   - Bioinformatics
 
-date: '2023-04-10T00:00:00Z'
+date: '2020-05-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://openpipelines.bio/'
@@ -16,7 +16,7 @@ image:
   focal_point: Smart
 
 links:
-url_code: 'https://github.com/openpipelines-bio/openpipeline'
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
