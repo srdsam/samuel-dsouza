@@ -18,6 +18,6 @@ links:
 url_code: 'https://github.com/ricardomokhtari/HealthHack2019'
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://devpost.com/software/correct-a-spine'
 
 ---

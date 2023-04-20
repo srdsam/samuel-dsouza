@@ -8,7 +8,7 @@ tags:
 date: "2021-06-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/srdsam/samuel-dsouza/tree/main/content/project/thesis/LABP2020_DSOUZA_SAMUEL_WRITTEN.pdf
+external_link: https://github.com/srdsam/samuel-dsouza/tree/main/content/project/view_detector/LABP2020_DSOUZA_SAMUEL_WRITTEN.pdf
 
 image:
   caption: CMRI
@@ -16,7 +16,7 @@ image:
 
 links:
 url_code: 'https://www.kaggle.com/code/samueldsouza/viewdetector?rvi=1'
-url_pdf: 'https://github.com/srdsam/samuel-dsouza/tree/main/content/project/thesis/LABP2020_DSOUZA_SAMUEL_WRITTEN.pdf'
+url_pdf: 'https://github.com/srdsam/samuel-dsouza/tree/main/content/project/view_detector/LABP2020_DSOUZA_SAMUEL_WRITTEN.pdf'
 url_slides: ''
 url_video: ''
 ---

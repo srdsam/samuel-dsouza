@@ -19,7 +19,7 @@ links:
 url_code: 'https://github.com/ricardomokhtari/PositiviTree'
 url_pdf: ''
 url_slides: ''
-url_video: ''
+url_video: 'https://devpost.com/software/health-hack-2020'
 
 ---
 
