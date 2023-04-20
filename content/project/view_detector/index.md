@@ -13,4 +13,10 @@ external_link: https://github.com/srdsam/samuel-dsouza/tree/main/content/project
 image:
   caption: CMRI
   focal_point: Smart
+
+links:
+url_code: 'https://www.kaggle.com/code/samueldsouza/viewdetector?rvi=1'
+url_pdf: 'https://github.com/srdsam/samuel-dsouza/tree/main/content/project/thesis/LABP2020_DSOUZA_SAMUEL_WRITTEN.pdf'
+url_slides: ''
+url_video: ''
 ---
