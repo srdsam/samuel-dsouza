@@ -4,8 +4,6 @@ summary: This project aims to improve the mental health of users, using positive
 
 tags:
   - Software Engineering
-  - Frontend
-  - Backend
   - Machine Learning
 
 date: '2020-05-27T00:00:00Z'
