@@ -1,6 +1,6 @@
 ---
 title: OpenPipelines
-summary: OpenPipelines are best-practice workflows for single-cell single- and multi-omics data. To ensure these workflows are accessible to non-experts and can be deployed in a fast and reproducible way, we will build these into reproducible, modular, and updatable best-practice analysis pipelines using industry-standard workflow tools, high-performance versions of popular methods, and an interoperable, language-independent framework.
+summary: Extensible single cell analysis pipelines for reproducible and large-scale single cell processing using Viash and Nextflow. These pipelines are built using the Viash framework on top of the nextflow workflow system.
 
 tags:
   - Software Engineering
