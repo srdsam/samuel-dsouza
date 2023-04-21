@@ -16,7 +16,7 @@ image:
 
 links:
 url_code: 'https://github.com/ricardomokhtari/HealthHack2019'
-url_pdf: ''
+url_pdf: 'https://github.com/ricardomokhtari/HealthHack2019/blob/master/Correct-A-Spine.pdf'
 url_slides: ''
 url_video: 'https://devpost.com/software/correct-a-spine'
 
