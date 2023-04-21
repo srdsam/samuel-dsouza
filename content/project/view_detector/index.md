@@ -16,7 +16,7 @@ image:
 
 links:
 url_code: 'https://www.kaggle.com/code/samueldsouza/viewdetector?rvi=1'
-url_pdf: 'https://github.com/srdsam/samuel-dsouza/tree/main/content/project/view_detector/LABP2020_DSOUZA_SAMUEL_WRITTEN.pdf'
+url_pdf: 'https://drive.google.com/file/d/1zuYFIWcO5P6Hk11ahkuaBBB5LavWfgwi/view?usp=sharing'
 url_slides: ''
 url_video: ''
 ---
