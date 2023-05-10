@@ -20,6 +20,8 @@ role: Lead Data Engineer
 organizations:
   - name: Chan Zuckerberg Biohub
     url: https://www.czbiohub.org/
+  - name: BSc Medical Bioscience Imperial College London
+    url: https://www.imperial.ac.uk/study/courses/undergraduate/medical-biosciences/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I like working in environments with a steep learning curve, leveraging my background in biomedical science and my broad experience across bioinformatics, machine learning, and software engineering. I enjoy collaborative multidisciplinary environments, that are mission-driven.
