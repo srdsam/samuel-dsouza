@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Lead Data Engineer
+role: Software Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Chan Zuckerberg Biohub
-    url: https://www.czbiohub.org/
+  - name: insitro
+    url: https://insitro.com/
   - name: BSc Medical Bioscience Imperial College London
     url: https://www.imperial.ac.uk/study/courses/undergraduate/medical-biosciences/
 

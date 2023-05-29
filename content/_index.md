@@ -16,7 +16,7 @@ sections:
     content:
       title: About Me
       text: |-
-        I am a research software engineer with expertise across bioinformatics, software engineering, and machine learning. I hold a BSc in Medical Biosciences from Imperial College London and have further completed numerous online courses in various relevant fields. I thrive in collaborative and supportive environments that promote creative, thorough engineering, enabling engineers like myself to address challenging issues with innovative solutions. Throughout my career, I have gained a breadth of experience in research and development, most recently focusing on bioinformatics and software engineering in startups, academia, and industry.
+        I am a software engineer with expertise across bioinformatics, software engineering, and machine learning. I hold a BSc in Medical Biosciences from Imperial College London and have further completed numerous online courses in various relevant fields. I thrive in collaborative and supportive environments that promote creative, thorough engineering, enabling engineers like myself to address challenging issues with innovative solutions. Throughout my career, I have gained a breadth of experience in research and development, most recently focusing on bioinformatics and software engineering in startups, academia, and industry.
         
         My technical skillset encompasses programming languages such as Python, JavaScript, C++, Nextflow, Java, Arduino, and Rust, as well as web development technologies including ReactJS, NextJS, NodeJS, and HTML. I am proficient with databases like Neo4J, MySQL, PostgreSQL, and JSON, and have experience with DevOps tools such as Docker, Singularity, AWS, Serverless, Git, and HPCs (on-premise deployments). Moreover, I have hands-on experience with wet-lab techniques like CRISPR, western blot, qPCR, cell culture, genotyping, and phenotyping. 
         
@@ -35,11 +35,17 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Software Engineer
+          company: insitro
+          company_url: 'https://insitro.com/'
+          location: South San Francisco, California, US
+          date_start: '2023-05-30'
         - title: Lead Data Engineer
           company: Chan Zuckerberg Biohub
-          company_url: ''
+          company_url: 'https://www.czbiohub.org/'
           location: San Francisco, California, US
           date_start: '2021-12-01'
+          date_end: '2023-05-01'
           description: Lead and built a project called Datahub, which aims to structure data to support research. Biomedical research is complex, with highly heterogeneous metadata depending on the sample, modality, or goal. Datahub leverages graph databases to represent highly interconnected metadata. A website and API allows users to easily upload, track, and analyze ongoing research. To support Datahub, I also developed infrastructure and analysis pipelines for the mass spectrometry and genomics platforms. Communicated with leadership, and users, and coordinated software engineers to develop automation. Researched using graph theory to interrogate multiomic data being generated at the Biohub under the guidance of the quantitive cell science data science team. Furthermore worked to analyse and interpret transcriptomics and spatial datasets.
         - title: Bioinformatics and Data Analyst
           company: Illumina
