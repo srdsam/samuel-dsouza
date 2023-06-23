@@ -42,14 +42,14 @@ sections:
           location: San Francisco, California, US
           date_start: '2021-12-01'
           date_end: '2023-05-01'
-          description: Lead and built a project called Datahub, which aims to structure data to support research. Biomedical research is complex, with highly heterogeneous metadata depending on the sample, modality, or goal. Datahub leverages graph databases to represent highly interconnected metadata. A website and API allows users to easily upload, track, and analyze ongoing research. To support Datahub, I also developed infrastructure and analysis pipelines for the mass spectrometry and genomics platforms. Communicated with leadership, and users, and coordinated software engineers to develop automation. Researched using graph theory to interrogate multiomic data being generated at the Biohub under the guidance of the quantitive cell science data science team. Furthermore worked to analyse and interpret transcriptomics and spatial datasets.
+          description: Lead and built a project called Datahub, which aims to structure data to support research. Biomedical research is complex, with highly heterogeneous metadata depending on the sample, modality, or goal. Datahub leverages graph databases to represent highly interconnected metadata. A website and API allows users to easily upload, track, and analyze ongoing research. To support Datahub, I also developed infrastructure and analysis pipelines for the mass spectrometry and genomics platforms. Communicated with leadership, and users, and coordinated software engineers to develop automation. Researched using graph theory to interrogate multiomic data being generated at the Biohub under the guidance of the quantitive cell science data science team and Dr Angela Oliveira Pisco. Furthermore worked to analyse and interpret transcriptomics and spatial datasets.
         - title: Bioinformatics and Data Analyst - Population Genomics Group
           company: Illumina
           company_url: 'https://www.illumina.com/'
           location: Cambridge, UK
           date_start: '2021-06-01'
           date_end: '2021-09-01'
-          description: Worked as a bioinformatician for Illumina’s EMEA office, within their Population Genomics (PopGen) group. Contributed to methods for merging and saving terabytes of variant called files (VCFs). Developed test software for triaging bugs and identifying algorithmic slowdowns. Worked for the DRAGEN platform in C++ and Python locally and in Illumina’s HPC environment.
+          description: Worked as a bioinformatician for Illumina’s EMEA office, within their Population Genomics (PopGen) group reporting to Dr Ole Schulz-Trieglaff. Contributed to methods for merging and saving terabytes of variant called files (VCFs). Developed test software for triaging bugs and identifying algorithmic slowdowns. Worked for the DRAGEN platform in C++ and Python locally and in Illumina’s HPC environment.
         - title: Machine Learning Researcher
           company: National Heart and Lung Institute
           company_url: 'https://www.imperial.ac.uk/nhli/'
