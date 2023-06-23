@@ -13,7 +13,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2013-07-01T00:00:00Z'
-doi: ''
+doi: 'https://www.science.org/doi/10.1126/science.adg0934'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-12-07T00:00:00Z'
@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
