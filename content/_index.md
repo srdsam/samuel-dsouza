@@ -30,25 +30,20 @@ sections:
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Software Engineer
+        - title: Software Engineer - Compute Platform
           company: insitro
           company_url: 'https://insitro.com/'
           location: South San Francisco, California, US
           date_start: '2023-05-30'
-        - title: Lead Data Engineer
+        - title: Lead Data Engineer - Quantitive Cell Science Data Science Team
           company: Chan Zuckerberg Biohub
           company_url: 'https://www.czbiohub.org/'
           location: San Francisco, California, US
           date_start: '2021-12-01'
           date_end: '2023-05-01'
           description: Lead and built a project called Datahub, which aims to structure data to support research. Biomedical research is complex, with highly heterogeneous metadata depending on the sample, modality, or goal. Datahub leverages graph databases to represent highly interconnected metadata. A website and API allows users to easily upload, track, and analyze ongoing research. To support Datahub, I also developed infrastructure and analysis pipelines for the mass spectrometry and genomics platforms. Communicated with leadership, and users, and coordinated software engineers to develop automation. Researched using graph theory to interrogate multiomic data being generated at the Biohub under the guidance of the quantitive cell science data science team. Furthermore worked to analyse and interpret transcriptomics and spatial datasets.
-        - title: Bioinformatics and Data Analyst
+        - title: Bioinformatics and Data Analyst - Population Genomics Group
           company: Illumina
           company_url: 'https://www.illumina.com/'
           location: Cambridge, UK
