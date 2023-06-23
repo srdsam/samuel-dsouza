@@ -5,7 +5,7 @@ title: 'Aging Fly Cell Atlas Identifies Exhaustive Aging Features at Cellular Re
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 'Tzu-Chiao Lu and Maria Brbi and Ye-Jin Park and Tyler Jackson and Jiaye Chen and Sai Saroja Kolluru and Yanyan Qi and Nadja Sandra Katheder and Xiaoyu Tracy Cai and Seungjae Lee and Yen-Chung Chen and Niccole Auld and Doug Welsch and Samuel DSouza and Angela Oliveira Pisco and Robert C. Jones and Jure Leskovec and Eric C. Lai and Hugo J. Bellen and Liqun Luo and Heinrich Jasper and Stephen R. Quake and Hongjie Li}'
+  - 'Tzu-Chiao Lu and Maria Brbi and Ye-Jin Park and Tyler Jackson and Jiaye Chen and Sai Saroja Kolluru and Yanyan Qi and Nadja Sandra Katheder and Xiaoyu Tracy Cai and Seungjae Lee and Yen-Chung Chen and Niccole Auld and Doug Welsch and Samuel DSouza and Angela Oliveira Pisco and Robert C. Jones and Jure Leskovec and Eric C. Lai and Hugo J. Bellen and Liqun Luo and Heinrich Jasper and Stephen R. Quake and Hongjie Li'
   - admin
 
 # Author notes (optional)
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://samuel-rohan-dsouza.com/publication/aging-fly-cell-atlas/2022.12.06.519355v1.full.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
