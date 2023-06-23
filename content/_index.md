@@ -16,7 +16,7 @@ sections:
     content:
       title: About Me
       text: |-
-        I am a software engineer with a focus on bioinformatics and biotechnology. I hold a BSc in Medical Biosciences from Imperial College London and have received formal lab training. For my thesis, I developed machine learning algorithms to support cardiac diagnostics from cardiac magnetic resonance imaging.
+        I am a software engineer with a focus on bioinformatics and biotechnology. I hold a BSc in Medical Biosciences from Imperial College London. I spent two years working in a lab studying neurodegenerative diseases and oncology as part of this degree. For my thesis, I developed machine learning algorithms to support cardiac diagnostics from cardiac magnetic resonance imaging.
 
         Before my bachelor's degree, I spent a year working as an R&D engineer, developing prototypes for early-stage startups in Berlin. Throughout my undergraduate degree, I worked as a bioinformatician and software engineer at various companies in the UK and Germany. After graduating, I moved to California, where I developed the initial data infrastructure for the CZ Biohub, a biomedical research center. I am currently working on data engineering at insitro. 
 
