@@ -16,11 +16,12 @@ sections:
     content:
       title: About Me
       text: |-
-        I am a software engineer with expertise across bioinformatics, software engineering, and machine learning. I hold a BSc in Medical Biosciences from Imperial College London and have further completed numerous online courses in various relevant fields. I thrive in collaborative and supportive environments that promote creative, thorough engineering, enabling engineers like myself to address challenging issues with innovative solutions. Throughout my career, I have gained a breadth of experience in research and development, most recently focusing on bioinformatics and software engineering in startups, academia, and industry.
-        
-        My technical skillset encompasses programming languages such as Python, JavaScript, C++, Nextflow, Java, Arduino, and Rust, as well as web development technologies including ReactJS, NextJS, NodeJS, and HTML. I am proficient with databases like Neo4J, MySQL, PostgreSQL, and JSON, and have experience with DevOps tools such as Docker, Singularity, AWS, Serverless, Git, and HPCs (on-premise deployments). Moreover, I have hands-on experience with wet-lab techniques like CRISPR, western blot, qPCR, cell culture, genotyping, and phenotyping. 
-        
-        Outside of work, I like Muay Thai and open water swimming with the South End Rowing Club. I have held leadership positions in sports organizations, including serving as Treasurer for Imperial College Swim and Waterpolo (ICSWP) and playing in the BUCS Premier League Waterpolo for Imperial College London.
+        I am a software engineer with a focus on bioinformatics and biotechnology. I hold a BSc in Medical Biosciences from Imperial College London and have received formal lab training. For my thesis, I developed machine learning algorithms to support cardiac diagnostics from cardiac magnetic resonance imaging.
+
+        Before my bachelor's degree, I spent a year working as an R&D engineer, developing prototypes for early-stage startups in Berlin. Throughout my undergraduate degree, I worked as a bioinformatician and software engineer at various companies in the UK and Germany. After graduating, I moved to California, where I developed the initial data infrastructure for the CZ Biohub, a biomedical research center. I am currently working on data engineering at insitro. 
+
+        In my free time, I train in Muay Thai and do open water swimming in the Bay. Although I was born in NYC, I mainly grew up in London, except for short stints in Berlin and Washington DC. Recently, I have been living in San Francisco.
+
 
   - block: experience
     id: experience
@@ -49,21 +50,21 @@ sections:
           description: Lead and built a project called Datahub, which aims to structure data to support research. Biomedical research is complex, with highly heterogeneous metadata depending on the sample, modality, or goal. Datahub leverages graph databases to represent highly interconnected metadata. A website and API allows users to easily upload, track, and analyze ongoing research. To support Datahub, I also developed infrastructure and analysis pipelines for the mass spectrometry and genomics platforms. Communicated with leadership, and users, and coordinated software engineers to develop automation. Researched using graph theory to interrogate multiomic data being generated at the Biohub under the guidance of the quantitive cell science data science team. Furthermore worked to analyse and interpret transcriptomics and spatial datasets.
         - title: Bioinformatics and Data Analyst
           company: Illumina
-          company_url: ''
+          company_url: 'https://www.illumina.com/'
           location: Cambridge, UK
           date_start: '2021-06-01'
           date_end: '2021-09-01'
           description: Worked as a bioinformatician for Illumina’s EMEA office, within their Population Genomics (PopGen) group. Contributed to methods for merging and saving terabytes of variant called files (VCFs). Developed test software for triaging bugs and identifying algorithmic slowdowns. Worked for the DRAGEN platform in C++ and Python locally and in Illumina’s HPC environment.
         - title: Machine Learning Researcher
           company: National Heart and Lung Institute
-          company_url: ''
+          company_url: 'https://www.imperial.ac.uk/nhli/'
           location: London, UK
           date_start: '2020-10-01'
           date_end: '2021-03-01'
           description: Developed machine learning models under the guidance of Professor Darrel Francis and Dr. James Howard in the Cardiology Department of Hammersmith Hospital, with the end goal of producing a CMRI (cardiac magnetic resonance imaging) pipeline for automated diagnostic of cardiovascular diseases. Developed a classifier that identified the ‘view’ of CMRIs, and retrospectively assessed model performance using several metrics. Investigated a potential novel transformer methodology for image data.
         - title: Bioinformatics Engineer
           company: Global Gene Corp
-          company_url: ''
+          company_url: 'https://anuva.bio/'
           location: Cambridge, UK
           date_start: '2020-06-01'
           date_end: '2020-10-01'
@@ -77,7 +78,7 @@ sections:
           description: This project was an investigation into the effect of adiponectin on ß-Amyloid secretion in PDK1- Knockdown HEK293 cells, as a potential molecular target for treating Alzheimers. I worked with a group of four other researchers to develop knockdown cells with CRISPR, and evaluate the impact of adiponectin on the ß-Amyloid secretion pathway through protein and genomic expression.
         - title: Software Engineer
           company: Automat
-          company_url: ''
+          company_url: 'https://automat.berlin/'
           location: Berlin, Germany (remote)
           date_start: '2019-07-01'
           date_end: '2020-04-01'
@@ -91,7 +92,7 @@ sections:
           description: Studied the inhibition of paclitaxel-induced apoptosis by epinephrine in a breast cancer cell line using cell viability assays, western blot, and qPCR alongside cell culture techniques.
         - title: R&D Engineer
           company: i2x
-          company_url: ''
+          company_url: 'https://i2x.ai/en/home/'
           location: Berlin, Germany
           date_start: '2018-03-01'
           date_end: '2018-07-01'
