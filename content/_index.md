@@ -50,7 +50,7 @@ sections:
           date_start: '2021-06-01'
           date_end: '2021-09-01'
           description: Worked as a bioinformatician for Illumina’s EMEA office, within their Population Genomics (PopGen) group reporting to Dr Ole Schulz-Trieglaff. Contributed to methods for merging and saving terabytes of variant called files (VCFs). Developed test software for triaging bugs and identifying algorithmic slowdowns. Worked for the DRAGEN platform in C++ and Python locally and in Illumina’s HPC environment.
-        - title: Machine Learning Researcher
+        - title: Machine Learning Researcher - Darrel P Francis Lab
           company: National Heart and Lung Institute
           company_url: 'https://www.imperial.ac.uk/nhli/'
           location: London, UK
