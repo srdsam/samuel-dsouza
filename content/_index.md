@@ -16,12 +16,11 @@ sections:
     content:
       title: About Me
       text: |-
-        I am a software engineer with a focus on bioinformatics and biotechnology. I hold a BSc in Medical Biosciences from Imperial College London. I spent two years working in a lab studying neurodegenerative diseases and oncology as part of this degree. For my thesis, I developed machine learning algorithms to support cardiac diagnostics from cardiac magnetic resonance imaging.
+        I am a software engineer with a focus on bioinformatics and biotechnology. I hold a BSc in Medical Biosciences from Imperial College London. I spent two years working in a lab studying neurodegenerative diseases and oncology as part of this degree. For my thesis, I developed machine learning algorithms to support diagnostics from cardiac magnetic resonance imaging.
 
-        Before my bachelor's degree, I spent a year working as an R&D engineer, developing prototypes for early-stage startups in Berlin. Throughout my undergraduate degree, I worked as a bioinformatician and software engineer at various companies in the UK and Germany. After graduating, I moved to California, where I developed the initial data infrastructure for the CZ Biohub, a biomedical research center. I am currently working on data engineering at insitro. 
+        Before my bachelor's degree, I spent a year working as an R&D engineer, developing a phage-based magneto-elastic biosensor for pathogens at a biotech startup and then building prototypes at an AI startup in Berlin. Throughout my undergraduate degree, I worked as a bioinformatician and software engineer at various companies in the UK and Germany. After graduating, I moved to California, where I developed the initial data infrastructure for the CZ Biohub, a biomedical research center. I am currently working in the compute core team at insitro. 
 
-        In my free time, I train in Muay Thai and do open water swimming in the Bay. Although I was born in NYC, I mainly grew up in London, except for short stints in Berlin and Washington DC. Recently, I have been living in San Francisco.
-
+        I was born in NYC, though I mainly grew up in London, except for stints in Berlin and Washington DC. I am currently based in San Francisco. In my free time, I compete in Muay Thai and do open water swimming in the Bay.
 
   - block: experience
     id: experience
@@ -31,7 +30,7 @@ sections:
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: Software Engineer - Compute Platform
+        - title: Software Engineer - Compute Core
           company: insitro
           company_url: 'https://insitro.com/'
           location: South San Francisco, California, US
