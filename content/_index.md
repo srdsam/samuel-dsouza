@@ -18,7 +18,7 @@ sections:
       text: |-
         I am a software engineer with a focus on bioinformatics and biotechnology. I hold a BSc in Medical Biosciences from Imperial College London. I spent two years working in a lab studying neurodegenerative diseases and oncology as part of this degree. For my thesis, I developed machine learning algorithms to support diagnostics from cardiac magnetic resonance imaging.
 
-        Before my bachelor's degree, I spent a year working as an R&D engineer, developing a phage-based magneto-elastic biosensor for pathogens at a biotech startup and then building prototypes at an AI startup in Berlin. Throughout my undergraduate degree, I worked as a bioinformatician and software engineer at various companies in the UK and Germany. After graduating, I moved to California, where I developed the initial data infrastructure for the CZ Biohub, a biomedical research center. I am currently working in the compute core team at insitro. 
+        Before my bachelor's degree, I spent a year working as an R&D engineer, developing a phage-based magneto-elastic biosensor for pathogens at a biotech startup and then developing prototypes at an AI startup in Berlin. Throughout my undergraduate degree, I worked as a bioinformatician and software engineer at various companies in the UK and Germany. After graduating, I moved to California, where I developed the initial data infrastructure for the CZ Biohub, a biomedical research center. I am currently working in the compute core team at insitro. 
 
         I was born in NYC, though I mainly grew up in London, except for stints in Berlin and Washington DC. I am currently based in San Francisco. In my free time, I compete in Muay Thai and do open water swimming in the Bay.
 
@@ -35,6 +35,7 @@ sections:
           company_url: 'https://insitro.com/'
           location: South San Francisco, California, US
           date_start: '2023-05-30'
+          description: Ensured optimal data accessibility and usability across insitro's diverse scientific and computational fields. Managed and configured infrastructure spanning both cloud and on-premise domains. Collaborated with development teams, monitored workflow performance, and championed cost-efficient and secure solutions. Additionally, invested 25% of my role in data backend software for scientific data and another 25% in computational biology for target screening, emphasizing clear data abstractions and well documented analysis.
         - title: Lead Data Engineer - Quantitive Cell Science Data Science Team
           company: Chan Zuckerberg Biohub
           company_url: 'https://www.czbiohub.org/'
