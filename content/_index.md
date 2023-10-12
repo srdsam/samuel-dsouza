@@ -35,7 +35,7 @@ sections:
           company_url: 'https://insitro.com/'
           location: South San Francisco, California, US
           date_start: '2023-05-30'
-          description: Ensured optimal data accessibility and usability across insitro's diverse scientific and computational fields. Managed and configured infrastructure spanning both cloud and on-premise domains. Collaborated with development teams, monitored workflow performance, and championed cost-efficient and secure solutions. Additionally, invested 25% of my role in data backend software for scientific data and another 25% in computational biology for target screening, emphasizing clear data abstractions and well documented analysis.
+          description: Work to ensure optimal data accessibility and usability across insitro's diverse scientific and computational fields. Manage and configure infrastructure spanning cloud and on-premise domains. Collaborate with development teams, monitor workflow performance, and maintain cost-efficient and secure solutions. Additionally, invest 25% of my role in data backend software for scientific data and another 25% in computational biology for target screening, emphasizing efficient data abstractions and clear analysis.
         - title: Lead Data Engineer - Quantitive Cell Science Data Science Team
           company: Chan Zuckerberg Biohub
           company_url: 'https://www.czbiohub.org/'
