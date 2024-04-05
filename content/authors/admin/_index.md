@@ -66,7 +66,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/Samuel.DSouza.CV.2023.pdf
+    link: uploads/CV_2024.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'samuelrohandsouza@gmail.com'
