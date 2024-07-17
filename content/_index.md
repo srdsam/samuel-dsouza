@@ -16,12 +16,11 @@ sections:
     content:
       title: About Me
       text: |-
-        I am a software engineer with a focus on bioinformatics and biotechnology. I hold a BSc in Medical Biosciences from Imperial College London. I spent two years working in a lab studying neurodegenerative diseases and oncology as part of this degree. For my thesis, I developed machine learning algorithms to support diagnostics from cardiac magnetic resonance imaging.
+        I am a software engineer with a focus on bioinformatics and data engineering. My undergraduate degree was in Medical Bioscience BSc, with a wet-lab focus on oncology and neurodegenerative disease. My thesis evaluated machine learning architectures for classifying cardiac MRI data. 
 
-        Before my bachelor's degree, I spent a year working as an R&D engineer, developing a phage-based magneto-elastic biosensor for pathogens at a biotech startup and then developing prototypes at an AI startup in Berlin. Throughout my undergraduate degree, I worked as a bioinformatician and software engineer at various companies in the UK and Germany. After graduating, I moved to California, where I developed the initial data infrastructure for the CZ Biohub, a biomedical research center. I am currently working in the compute core team at insitro. 
+        Prior to university, I worked at a 5 person BioTech startup in Berlin where I first started to work as an engineer. Throughout undergrad I worked part-time or during the summer as a engineer, largely with genomics data. At the Chan-Zuckerberg Biohub I focused on LIMS tooling and transcriptomics. At insitro, I continue to develop transcriptomics infrastructure as well as working on clinical data.
 
-        I was born in NYC, though I mainly grew up in London, except for stints in Berlin and Washington DC. I am currently based in San Francisco. In my free time, I compete in Muay Thai and do open water swimming in the Bay.
-
+        In my free time I swim & train Muay Thai. Born in NYC, grew up in London, lived in Berlin & San Francisco. Currently based out of NYC!
   - block: experience
     id: experience
     content:
@@ -30,19 +29,19 @@ sections:
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
       items:
-        - title: Software Engineer - Compute Core
+        - title: Software Engineer - Compute Core / ClinData
           company: insitro
           company_url: 'https://insitro.com/'
-          location: South San Francisco, California, US
+          location: South San Francisco, California, US (remote)
           date_start: '2023-05-30'
-          description: Develop cloud compute infrastructure to support software across insitro’s scientific and computational domains. Collaborate with development teams and maintain cost-efficient and secure solutions. Build full-stack scientific data explorers and engineer informatics pipelines and data structures for data at scale.
+          description: Develop cloud compute infrastructure (K8s, Terraform, AWS) to support software across insitro’s scientific and computational domains. Build full-stack scientific data explorers. Engineer data structures to consolidate data infrastructure and support omics analysis and ML at scale. Produced analyses and reports for target screening with scientific teams. Stood up image viewing infrastructure and tooling for clinical datasets.
         - title: Lead Data Engineer - Quantitive Cell Science Data Science Team
           company: Chan Zuckerberg Biohub
           company_url: 'https://www.czbiohub.org/'
           location: San Francisco, California, US
           date_start: '2021-12-01'
           date_end: '2023-05-01'
-          description: Lead and built a project called Datahub, which aims to structure data to support research. Biomedical research is complex, with highly heterogeneous metadata depending on the sample, modality, or goal. Datahub leverages graph databases to represent highly interconnected metadata. A website and API allows users to easily upload, track, and analyze ongoing research. To support Datahub, I also developed infrastructure and analysis pipelines for the mass spectrometry and genomics platforms. Communicated with leadership, and users, and coordinated software engineers to develop automation. Researched using graph theory to interrogate multiomic data being generated at the Biohub under the guidance of the quantitive cell science data science team and Dr Angela Oliveira Pisco. Furthermore worked to analyse and interpret transcriptomics and spatial datasets.
+          description: Lead and built a project called Datahub, which aims to structure data to support research. Biomedical research is complex, with highly heterogeneous metadata depending on the sample, modality, or goal. Datahub leverages graph databases to represent highly interconnected metadata. A website and API allows users to easily upload, track, and analyze ongoing research. To support Datahub, I also developed infrastructure and analysis pipelines for the mass spectrometry and genomics platforms. Communicated with leadership, and users, and coordinated software engineers to develop automation. Researched using graph theory to interrogate multiomic data being generated at the Biohub under the guidance of the quantitive cell science data science team and Dr Angela Oliveira Pisco. Furthermore worked to analyse and interpret transcriptomics and spatial transcriptomcis datasets.
         - title: Bioinformatics and Data Analyst - Population Genomics Group
           company: Illumina
           company_url: 'https://www.illumina.com/'
@@ -210,8 +209,8 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: samuelrohandsouza@gmail.com
       address:
-        city: San Francisco
-        region: CA
+        city: New York City
+        region: NY
         country: United States
         country_code: US
       # Automatically link email and phone or display as text?

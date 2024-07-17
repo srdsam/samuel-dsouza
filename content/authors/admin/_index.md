@@ -24,7 +24,7 @@ organizations:
     url: https://www.imperial.ac.uk/study/courses/undergraduate/medical-biosciences/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like working in environments with a steep learning curve, leveraging my background in biomedical science and my broad experience across bioinformatics, machine learning, and software engineering. I enjoy collaborative multidisciplinary environments, that are mission-driven.
+bio: Bioinformatics Software Engineer
 
 
 # Interests to show in About widget
@@ -32,6 +32,9 @@ interests:
   - Bioinformatics
   - Software engineering
   - Quantitive cell science
+  - Transcriptomics
+  - Genomics
+  - Spatial Omics
   - Machine learning
 
 # Education to show in About widget
