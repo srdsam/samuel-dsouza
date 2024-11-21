@@ -34,7 +34,7 @@ sections:
           company_url: 'https://insitro.com/'
           location: South San Francisco, California, US (remote)
           date_start: '2023-05-30'
-          description: Develop cloud compute infrastructure (K8s, Terraform, AWS) to support software across insitro’s scientific and computational domains. Build full-stack scientific data explorers. Engineer data structures to consolidate data infrastructure and support omics analysis and ML at scale. Produced analyses and reports for target screening with scientific teams. Stood up image viewing infrastructure and tooling for clinical datasets.
+          description: Set up image viewing infrastructure for clinical modalities. Developed software and infrastructure to analyze and train from radiology for data and machine learning scientists. Assisted with the development of ML models from H&E for target discovery. Developed cloud compute infrastructure to support software across insitro’s diverse scientific and computational domains. Built full-stack tools to explore transcriptomics and embeddings data. Designed data structures to support analysis and machine learning for omics. Produced analyses and reports for target screening in collaboration with scientific teams.
         - title: Lead Data Engineer - Quantitive Cell Science Data Science Team
           company: Chan Zuckerberg Biohub
           company_url: 'https://www.czbiohub.org/'
